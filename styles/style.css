@@ -13,6 +13,7 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
+  color: red;
   /* выше установили ограничения для секции */
 }
 
