@@ -372,5 +372,5 @@ font-weight: bold;
 }
 .footer__social-icon {
   margin-right: 10px;
-  display: flex;
-  flex-direction: column;
+  width: 16px;
+  height: 16px;
