@@ -389,7 +389,6 @@ font-weight: bold;
   display: flex;
   flex-direction: column;
   list-style: none;
-  display: flex;
   justify-content: space-between;
 }
 
