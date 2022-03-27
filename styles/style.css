@@ -116,8 +116,7 @@
   }
 
 .two-columns__paragraph {
-  margin: 0;
-  margin-bottom: 30px;
+  margin: 0 0 30px;
 }
 
 .two-columns__paragraph:last-child {
@@ -144,8 +143,7 @@
   font-size: 60px;
   font-weight: bold;
   text-align: center;
-  margin: auto;
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
   }
 
 .section-subtitle {
@@ -180,8 +178,7 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  margin-bottom: 20px;
-  margin-top: 0;
+  margin: 0 0 20px
 }
 
 .table__text {
@@ -209,9 +206,8 @@
   }
 
 .feynman__title {
-  margin:auto;
+  margin: 0 auto 70px;
   padding-top: 100px;
-  margin-bottom: 70px;
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
@@ -233,19 +229,15 @@
   right: 48px;
   top: 50%;
   margin:0;
-  }
-
-.feynman__link_text {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
   color: #2f80ed;
   text-decoration: none;
-}
+  }
 
 .kaufman {
   background-color: #1f1f1f;
-  color:white;
   padding: 90px 0;
   display: flex;
   justify-content: center;
@@ -270,57 +262,36 @@
 }
 
 .section-title_theme_dark {
-  width: 60%;
-  line-height: 1.15;
-  font-size: 60px;
-  font-weight: bold;
-  text-align: center;
-  margin: auto;
-  margin-bottom: 20px;
+  color:white;
 }
 
 .section-subtitle_theme_dark {
-  width: 60%;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  margin: 0 auto;
-  text-align: center;
+  color:white;
 }
 
 .table_theme_dark {
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
   list-style: none;
   z-index: 1;
-  padding: 0;
+  color:white;
 }
 
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
+  margin: 80px 0 0;
+  color:white;
 }
 
 .table__heading_theme_dark {
-line-height: 1.15;
-font-size: 24px;
-font-weight: bold; 
+  color:white;
 }
 
 .table__text_theme_dark {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
+  color:white;
 }
 
 .footer {
-  padding-top: 60px;
-  padding-bottom: 40px;
+  padding: 60px 0 40px;
   background-color: #1f1f1f;
   color:white;
   display: flex;
@@ -367,8 +338,7 @@ font-weight: bold;
 }
 
 .footer__author {
-  margin-top: 18px;
-  margin-bottom: 18px;
+  margin: 18px 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -378,8 +348,7 @@ font-weight: bold;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  margin-bottom: 20px;
-  margin-top: 0;
+  margin: 0 0 20px
 }
 
 .footer__column-links {
