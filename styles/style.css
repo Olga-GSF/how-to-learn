@@ -178,7 +178,7 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  margin: 0 0 20px
+  margin: 0 0 20px;
 }
 
 .table__text {
@@ -333,7 +333,7 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  margin: 0 0 20px
+  margin: 0 0 20px;
 }
 
 .footer__column-links {
