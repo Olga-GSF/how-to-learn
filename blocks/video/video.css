@@ -1,0 +1,7 @@
+.video {
+  padding: 100px 0 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: -50px;
+}
